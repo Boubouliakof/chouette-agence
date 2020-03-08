@@ -35,5 +35,5 @@ ExpiresDefault "access plus 2 days"
 # END Expires Headers
 
 RewriteEngine On
-RewriteCond %{HTTP_HOST} ^boubouliakof.github.io/la-chouette-agence-modif/index.html [NC] 
-RewriteRule ^(.*)$ https://www.boubouliakof.github.io/la-chouette-agence-modif/index.html/$1 [L,R=301]
+RewriteCond %{HTTP_HOST} ^boubouliakof.github.io/chouette-agence/index.html [NC] 
+RewriteRule ^(.*)$ https://www.boubouliakof.github.io/chouette-agence/index.html/$1 [L,R=301]
