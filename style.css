@@ -25,6 +25,24 @@ a:hover {
     padding-bottom: 20px;
 }
 
+.comments {
+    font-size: 22px;
+    max-width: 600px;
+    margin: auto;
+}
+
+.author {
+    font-size: 14px;
+    padding-left: 5px;
+    margin: auto;
+}
+
+.realisation {
+    font-size: 25px;
+    max-width: 500px;
+    margin: auto;
+}
+
 #page-loading-blocs-notifaction {
     position: fixed;
     top: 0;
@@ -684,7 +702,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 14px;
 }
 
 .tight-width-whitespace {
