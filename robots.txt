@@ -1,0 +1,3 @@
+User-Agent: *
+Sitemap: https://boubouliakof.github.io/chouette-agence/sitemap.xml
+Allow: /*
