@@ -135,7 +135,7 @@ a[data-lightbox]:hover img{opacity:.6;-webkit-animation-fill-mode:none;animation
 .next-lightbox,.prev-lightbox{font-size:20px;color:rgba(255,255,255,.9);background:rgba(0,0,0,.5);transition:all .2s ease-in-out;position:absolute;top:45%;z-index:1;opacity:.4}
 .next-lightbox{padding:6px 8px 1px 13px;right:25px}
 .prev-lightbox{padding:6px 13px 1px 10px;left:25px}
-.snapshot-lb .modal-body{padding-bottom:45px}
+.snapshot-lb .modal-body{padding-bottom:60px}
 .snapshot-lb .lightbox-caption{padding:0;color:rgba(0,0,0,.5);background:0}
 h1,h2,h3,h4,h5,h6,p,label,.btn,a{font-family:"helvetica";color:#575757}
 .container{max-width:1000px}
